@@ -79,7 +79,7 @@ scipy >= 1.7.0
 
 ## Author
 
-Momoe
+Huangyue
 May 2025
 
 ## License
